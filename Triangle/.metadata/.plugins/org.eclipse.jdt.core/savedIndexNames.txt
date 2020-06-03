@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+F:\Documentos\aula Java\Triangle\.metadata\.plugins\org.eclipse.jdt.core
+833386100.index
+2103231971.index

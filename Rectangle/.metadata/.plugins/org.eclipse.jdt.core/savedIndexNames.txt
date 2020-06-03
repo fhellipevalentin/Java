@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+F:\Documentos\aula Java\Rectangle\.metadata\.plugins\org.eclipse.jdt.core
+2103231971.index
+1749246500.index

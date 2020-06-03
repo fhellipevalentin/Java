@@ -1,0 +1,31 @@
+package Exercicio;
+
+import java.util.Scanner;
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+			Scanner sc = new Scanner(System.in);
+			double nota1 = sc.nextDouble();
+			double nota2 = sc.nextDouble();
+			double total;
+			
+			
+			total = (nota1 + nota2) / 2;
+			
+			if (total <= 60) {
+				System.out.printf("REPROVADO: Sua nota final é: %s", total);
+			}
+			else {
+				System.out.printf("APROVADO: Sua nota final é: %s", total);
+			}
+			
+			
+			
+			
+			sc.close();
+		
+}
+}
+	

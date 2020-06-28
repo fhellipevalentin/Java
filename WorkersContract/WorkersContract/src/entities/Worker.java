@@ -68,13 +68,15 @@ public class Worker {
 		this.contracts = contracts;
 	}*/
 	
+	
 	public void addContract(HourContract contract) {
 		contracts.add(contract);
 	}
-	
 	public void removeContract(HourContract contract) {
 		contracts.remove(contract);
 	}
+	
+	
 	/*toda essa estrutura de repetição e condicional é para captar do calendário
 	do Java, o mês e o ano atual e comparar o do registro*/
 	public double income(int year, int month) {

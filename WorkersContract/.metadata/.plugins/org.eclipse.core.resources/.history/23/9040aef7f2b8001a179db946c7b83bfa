@@ -52,10 +52,6 @@ public class Program {
 			passando o contract de argumento, esse contrato vai ser adicionado na lista*/
 		}
 		
-		System.out.println();
-		System.out.print("Enter month and year to calculate income (dd/MM/YYY): ");
-		
-		
 		sc.close();
 
 	}

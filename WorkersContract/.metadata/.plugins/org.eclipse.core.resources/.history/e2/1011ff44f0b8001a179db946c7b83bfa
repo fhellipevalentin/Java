@@ -43,18 +43,9 @@ public class Program {
 			System.out.print("Duration (hours): ");
 			int hours = sc.nextInt();
 			HourContract contract = new HourContract(contractDate, valuePerHour, hours);
-			
-			//associando o contrato(instancia) com List
-			
+			//associando o contrato(instancia) com worker
 			worker.addContract(contract);
-			
-			/*toda vez que eu chamar o método addContract (Workers.entities), 
-			passando o contract de argumento, esse contrato vai ser adicionado na lista*/
 		}
-		
-		System.out.println();
-		System.out.print("Enter month and year to calculate income (dd/MM/YYY): ");
-		
 		
 		sc.close();
 

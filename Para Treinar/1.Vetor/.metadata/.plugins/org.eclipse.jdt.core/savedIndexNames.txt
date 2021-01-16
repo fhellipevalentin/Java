@@ -1,3 +1,0 @@
-INDEX VERSION 1.131+F:\Documentos\aula Java\Para Treinar\Vetor\.metadata\.plugins\org.eclipse.jdt.core
-2125722497.index
-2103231971.index

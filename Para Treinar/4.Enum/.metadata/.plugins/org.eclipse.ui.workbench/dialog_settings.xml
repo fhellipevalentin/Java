@@ -1,15 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
 	<section name="org.eclipse.ui.internal.QuickAccess">
-		<item key="dialogHeight" value="-1"/>
-		<item key="dialogWidth" value="-1"/>
+		<item key="dialogHeight" value="788"/>
+		<item key="dialogWidth" value="969"/>
 		<list key="orderedElements">
+			<item value="org.eclipse.jdt.ui.edit.text.java.generate.tostring"/>
+			<item value="org.eclipse.jdt.ui.edit.text.java.generate.constructor.using.fields"/>
+			<item value="org.eclipse.jdt.ui.actions.GenerateGetterSetter"/>
 		</list>
 		<list key="orderedProviders">
+			<item value="org.eclipse.ui.commands"/>
+			<item value="org.eclipse.ui.commands"/>
+			<item value="org.eclipse.ui.actions"/>
 		</list>
 		<list key="textEntries">
+			<item value="1"/>
+			<item value="1"/>
+			<item value="1"/>
 		</list>
 		<list key="textArray">
+			<item value="gts"/>
+			<item value="gcuf"/>
+			<item value="g g and sett"/>
 		</list>
 	</section>
 </section>

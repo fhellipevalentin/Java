@@ -1,8 +1,10 @@
-package entities;
+package blackboard;
 
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
+
+import entities.Aula;
 
 public class TestaListaDeAula {
 
